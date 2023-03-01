@@ -2,17 +2,17 @@
 
 ## Table of Contents
 
-## A Long-expected Party
-## The Shadow of the Past
-## A Short Cut to Mushrooms
-## A Conspiracy Unmasked
-## The Old Forest
-## In the House of Tom Bombadil
-## Fog on the Barrow-downs
-## At the Sign of the Prancing Pony
-## Strider
-## A Knife in the Dark
-## Flight to the Ford
+- A Long-expected Party
+- The Shadow of the Past
+- A Short Cut to Mushrooms
+- A Conspiracy Unmasked
+- The Old Forest
+- In the House of Tom Bombadil
+- Fog on the Barrow-downs
+- At the Sign of the Prancing Pony
+- Strider
+- A Knife in the Dark
+- Flight to the Ford
 
 ## A Long-expected Party
 

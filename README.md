@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-1. A Long1.expected Party
+1. A Long-expected Party
 1. The Shadow of the Past
 1. A Short Cut to Mushrooms
 1. A Conspiracy Unmasked
 1. The Old Forest
 1. In the House of Tom Bombadil
-1. Fog on the Barrow1.downs
+1. Fog on the Barrow-downs
 1. At the Sign of the Prancing Pony
 1. Strider
 1. A Knife in the Dark
